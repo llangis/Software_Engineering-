@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\_Src\\Software engineering\\Demos\\RPSGameDemp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E9C154-E1BB-4834-B90D-3A7B97E29539}|RPSGameDemp.csproj|c:\\_src\\software engineering\\demos\\rpsgamedemp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E9C154-E1BB-4834-B90D-3A7B97E29539}|RPSGameDemp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E9C154-E1BB-4834-B90D-3A7B97E29539}|RPSGameDemp.csproj|c:\\_src\\software engineering\\demos\\rpsgamedemp\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E9C154-E1BB-4834-B90D-3A7B97E29539}|RPSGameDemp.csproj|solutionrelative:move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E9C154-E1BB-4834-B90D-3A7B97E29539}|RPSGameDemp.csproj|c:\\_src\\software engineering\\demos\\rpsgamedemp\\paper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E9C154-E1BB-4834-B90D-3A7B97E29539}|RPSGameDemp.csproj|solutionrelative:paper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E9C154-E1BB-4834-B90D-3A7B97E29539}|RPSGameDemp.csproj|c:\\_src\\software engineering\\demos\\rpsgamedemp\\iplayable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E9C154-E1BB-4834-B90D-3A7B97E29539}|RPSGameDemp.csproj|solutionrelative:iplayable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E9C154-E1BB-4834-B90D-3A7B97E29539}|RPSGameDemp.csproj|c:\\_src\\software engineering\\demos\\rpsgamedemp\\computerplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E9C154-E1BB-4834-B90D-3A7B97E29539}|RPSGameDemp.csproj|solutionrelative:computerplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E9C154-E1BB-4834-B90D-3A7B97E29539}|RPSGameDemp.csproj|c:\\_src\\software engineering\\demos\\rpsgamedemp\\humanplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E9C154-E1BB-4834-B90D-3A7B97E29539}|RPSGameDemp.csproj|solutionrelative:humanplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E9C154-E1BB-4834-B90D-3A7B97E29539}|RPSGameDemp.csproj|c:\\_src\\software engineering\\demos\\rpsgamedemp\\rock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E9C154-E1BB-4834-B90D-3A7B97E29539}|RPSGameDemp.csproj|solutionrelative:rock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E9C154-E1BB-4834-B90D-3A7B97E29539}|RPSGameDemp.csproj|c:\\_src\\software engineering\\demos\\rpsgamedemp\\scissors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E9C154-E1BB-4834-B90D-3A7B97E29539}|RPSGameDemp.csproj|solutionrelative:scissors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ComputerPlayer.cs",
+              "DocumentMoniker": "C:\\_Src\\Software engineering\\Demos\\RPSGameDemp\\ComputerPlayer.cs",
+              "RelativeDocumentMoniker": "ComputerPlayer.cs",
+              "ToolTip": "C:\\_Src\\Software engineering\\Demos\\RPSGameDemp\\ComputerPlayer.cs",
+              "RelativeToolTip": "ComputerPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T14:14:54.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HumanPlayer.cs",
+              "DocumentMoniker": "C:\\_Src\\Software engineering\\Demos\\RPSGameDemp\\HumanPlayer.cs",
+              "RelativeDocumentMoniker": "HumanPlayer.cs",
+              "ToolTip": "C:\\_Src\\Software engineering\\Demos\\RPSGameDemp\\HumanPlayer.cs",
+              "RelativeToolTip": "HumanPlayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T14:04:33.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPlayable.cs",
+              "DocumentMoniker": "C:\\_Src\\Software engineering\\Demos\\RPSGameDemp\\IPlayable.cs",
+              "RelativeDocumentMoniker": "IPlayable.cs",
+              "ToolTip": "C:\\_Src\\Software engineering\\Demos\\RPSGameDemp\\IPlayable.cs",
+              "RelativeToolTip": "IPlayable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:59:26.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Scissors.cs",
+              "DocumentMoniker": "C:\\_Src\\Software engineering\\Demos\\RPSGameDemp\\Scissors.cs",
+              "RelativeDocumentMoniker": "Scissors.cs",
+              "ToolTip": "C:\\_Src\\Software engineering\\Demos\\RPSGameDemp\\Scissors.cs",
+              "RelativeToolTip": "Scissors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:54:07.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Rock.cs",
+              "DocumentMoniker": "C:\\_Src\\Software engineering\\Demos\\RPSGameDemp\\Rock.cs",
+              "RelativeDocumentMoniker": "Rock.cs",
+              "ToolTip": "C:\\_Src\\Software engineering\\Demos\\RPSGameDemp\\Rock.cs",
+              "RelativeToolTip": "Rock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:53:08.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Paper.cs",
+              "DocumentMoniker": "C:\\_Src\\Software engineering\\Demos\\RPSGameDemp\\Paper.cs",
+              "RelativeDocumentMoniker": "Paper.cs",
+              "ToolTip": "C:\\_Src\\Software engineering\\Demos\\RPSGameDemp\\Paper.cs",
+              "RelativeToolTip": "Paper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:50:08.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Move.cs",
+              "DocumentMoniker": "C:\\_Src\\Software engineering\\Demos\\RPSGameDemp\\Move.cs",
+              "RelativeDocumentMoniker": "Move.cs",
+              "ToolTip": "C:\\_Src\\Software engineering\\Demos\\RPSGameDemp\\Move.cs",
+              "RelativeToolTip": "Move.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:46:24.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\_Src\\Software engineering\\Demos\\RPSGameDemp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\_Src\\Software engineering\\Demos\\RPSGameDemp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:43:06.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

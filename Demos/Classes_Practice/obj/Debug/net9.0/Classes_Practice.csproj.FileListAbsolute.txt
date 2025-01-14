@@ -1,0 +1,14 @@
+C:\_Src\Software engineering\Demos\Classes_Practice\bin\Debug\net9.0\Classes_Practice.exe
+C:\_Src\Software engineering\Demos\Classes_Practice\bin\Debug\net9.0\Classes_Practice.deps.json
+C:\_Src\Software engineering\Demos\Classes_Practice\bin\Debug\net9.0\Classes_Practice.runtimeconfig.json
+C:\_Src\Software engineering\Demos\Classes_Practice\bin\Debug\net9.0\Classes_Practice.dll
+C:\_Src\Software engineering\Demos\Classes_Practice\bin\Debug\net9.0\Classes_Practice.pdb
+C:\_Src\Software engineering\Demos\Classes_Practice\obj\Debug\net9.0\Classes_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\_Src\Software engineering\Demos\Classes_Practice\obj\Debug\net9.0\Classes_Practice.AssemblyInfoInputs.cache
+C:\_Src\Software engineering\Demos\Classes_Practice\obj\Debug\net9.0\Classes_Practice.AssemblyInfo.cs
+C:\_Src\Software engineering\Demos\Classes_Practice\obj\Debug\net9.0\Classes_Practice.csproj.CoreCompileInputs.cache
+C:\_Src\Software engineering\Demos\Classes_Practice\obj\Debug\net9.0\Classes_Practice.dll
+C:\_Src\Software engineering\Demos\Classes_Practice\obj\Debug\net9.0\refint\Classes_Practice.dll
+C:\_Src\Software engineering\Demos\Classes_Practice\obj\Debug\net9.0\Classes_Practice.pdb
+C:\_Src\Software engineering\Demos\Classes_Practice\obj\Debug\net9.0\Classes_Practice.genruntimeconfig.cache
+C:\_Src\Software engineering\Demos\Classes_Practice\obj\Debug\net9.0\ref\Classes_Practice.dll
